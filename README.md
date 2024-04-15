@@ -1,7 +1,7 @@
 # AnyCLItoGUI
 A simple program to make running command line only tools from the start menu easier.
 
-# How to use this
+# How to use this?
 ###### Can't believe I forgot to add this XD
 
 "AnyCLItoGUI.exe" "Path\to\program.exe" "supported_extensions" (you can have multiple of these)
