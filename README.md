@@ -10,10 +10,10 @@ A simple program to make running command line only tools from the start menu eas
 <details>
 <summary>Click here to view</summary>
 
-![image](https://github.com/Git-Pikakid98/AnyCLItoGUI/assets/12392651/ab6c25d3-d40b-42bc-8ab8-c8ddcd9975e8)
+![image](https://github.com/pikakid98/AnyCLItoGUI/assets/12392651/ab6c25d3-d40b-42bc-8ab8-c8ddcd9975e8)
 (Open Shell is used in this example but is not a requirement)
 
-![image](https://github.com/Git-Pikakid98/AnyCLItoGUI/assets/12392651/28d1dfd8-c8f5-4a8f-871c-9e6dd387170a)
+![image](https://github.com/pikakid98/AnyCLItoGUI/assets/12392651/28d1dfd8-c8f5-4a8f-871c-9e6dd387170a)
 
 </details>
 
